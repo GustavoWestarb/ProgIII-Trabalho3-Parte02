@@ -1,0 +1,348 @@
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Trabalho_Programacao_3.dll.config
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Trabalho_Programacao_3.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Trabalho_Programacao_3.pdb
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csc.exe
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csc.exe.config
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csc.rsp
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csi.exe
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csi.exe.config
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csi.rsp
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.AppContext.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Console.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.IO.Compression.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Claims.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.ValueTuple.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\vbc.exe
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\vbc.exe.config
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\vbc.rsp
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\VBCSCompiler.exe
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Antlr3.Runtime.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\EntityFramework.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\EntityFramework.SqlServer.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Newtonsoft.Json.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Net.Http.Formatting.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Helpers.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Http.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Http.WebHost.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Mvc.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Optimization.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Razor.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.Razor.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\WebGrease.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\EntityFramework.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\EntityFramework.SqlServer.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Newtonsoft.Json.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Net.Http.Formatting.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Helpers.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Http.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Http.WebHost.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Mvc.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Optimization.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Razor.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.Razor.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Antlr3.Runtime.pdb
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.csproj.CopyComplete
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.dll
+C:\Users\gabri\source\repos\Trabalho_Programacao_3\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.pdb
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Trabalho_Programacao_3.dll.config
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Trabalho_Programacao_3.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Trabalho_Programacao_3.pdb
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csc.exe
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csc.exe.config
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csc.rsp
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csi.exe
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csi.exe.config
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\csi.rsp
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.AppContext.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Console.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.IO.Pipes.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.AccessControl.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Claims.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\vbc.exe
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\vbc.exe.config
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\vbc.rsp
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Antlr3.Runtime.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\EntityFramework.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\EntityFramework.SqlServer.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Newtonsoft.Json.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Net.Http.Formatting.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Helpers.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Http.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Http.WebHost.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Mvc.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Optimization.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Razor.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\WebGrease.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\EntityFramework.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\EntityFramework.SqlServer.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Newtonsoft.Json.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Net.Http.Formatting.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Helpers.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Http.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Http.WebHost.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Mvc.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Optimization.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Razor.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Antlr3.Runtime.pdb
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Diagnostics.DiagnosticSource.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Helpers.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Http.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Mvc.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Optimization.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.Razor.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.WebPages.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.csprojAssemblyReference.cache
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.csproj.CoreCompileInputs.cache
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.csproj.CopyComplete
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.pdb
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\XmlDocument.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.Cors.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Owin.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Cors.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Http.Owin.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.Cors.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\System.Web.Http.Owin.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\CryptSharp.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\CryptSharp.pdb
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\Trabalho_Programacao_3\bin\CryptSharp.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Trabalho_Programacao_3.dll.config
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Trabalho_Programacao_3.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Trabalho_Programacao_3.pdb
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\XmlDocument.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\csc.exe
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\csc.exe.config
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\csc.rsp
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\csi.exe
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\csi.exe.config
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\csi.rsp
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.AppContext.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Console.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.IO.Pipes.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Security.AccessControl.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Security.Claims.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\vbc.exe
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\vbc.exe.config
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\vbc.rsp
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Antlr3.Runtime.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\CryptSharp.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\EntityFramework.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\EntityFramework.SqlServer.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.Cors.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Newtonsoft.Json.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Owin.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Net.Http.Formatting.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Cors.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Helpers.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Http.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Http.Owin.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Http.WebHost.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Mvc.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Optimization.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Razor.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.WebPages.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\WebGrease.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\CryptSharp.pdb
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\CryptSharp.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\EntityFramework.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\EntityFramework.SqlServer.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.Cors.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Net.Http.Formatting.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Http.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Http.Owin.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Newtonsoft.Json.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Helpers.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Http.WebHost.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Mvc.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Optimization.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.Razor.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.WebPages.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Antlr3.Runtime.pdb
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\System.Diagnostics.DiagnosticSource.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\pt-br\System.Web.Http.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\pt-br\System.Web.Helpers.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\pt-br\System.Web.Mvc.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\pt-br\System.Web.Optimization.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\pt-br\System.Web.Razor.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\pt-br\System.Web.WebPages.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.csprojAssemblyReference.cache
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.csproj.CoreCompileInputs.cache
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.csproj.CopyComplete
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.dll
+D:\OneDrive - FURB\BCC-FURB\5 SEMESTRE\Programação 3\Trabalho_Programacao_3\Trabalho_Programacao_3\git\Trabalho_Programacao_3\obj\Debug\Trabalho_Programacao_3.pdb

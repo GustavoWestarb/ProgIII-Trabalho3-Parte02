@@ -1,0 +1,67 @@
+@using System.Web.Http
+@using System.Web.Http.Description
+@using Trabalho_Programacao_3.Areas.HelpPage.Models
+@using Trabalho_Programacao_3.Areas.HelpPage.ModelDescriptions
+@model HelpPageApiModel
+
+@{
+    ApiDescription description = Model.ApiDescription;
+}
+<h1>@description.HttpMethod.Method @description.RelativePath</h1>
+<div>
+    <p>@description.Documentation</p>
+
+    <h2>Informações da requisição</h2>
+
+    <h3>Parâmetros URI</h3>
+    @Html.DisplayFor(m => m.UriParameters, "Parameters")
+
+    <h3>Corpo de parâmetros (Json)</h3>
+
+    <p>@Model.RequestDocumentation</p>
+
+    @if (Model.RequestModelDescription != null)
+    {
+        @Html.DisplayFor(m => m.RequestModelDescription.ModelType, "ModelDescriptionLink", new { modelDescription = Model.RequestModelDescription })
+        if (Model.RequestBodyParameters != null)
+        {
+            @Html.DisplayFor(m => m.RequestBodyParameters, "Parameters")
+        }
+    }
+    else
+    {
+        <p>Vazio.</p>
+    }
+
+    @if (Model.SampleRequests.Count > 0)
+    {
+        <h3>Formato da requisição (Json)</h3>
+        @Html.DisplayFor(m => m.SampleRequests, "Samples")
+    }
+
+    <h2>Informações de Retorno</h2>
+
+    <h3>Descrição</h3>
+
+    <p>@description.ResponseDescription.Documentation</p>
+
+    @if (Model.ResourceDescription != null)
+    {
+        @Html.DisplayFor(m => m.ResourceDescription.ModelType, "ModelDescriptionLink", new { modelDescription = Model.ResourceDescription })
+        if (Model.ResourceProperties != null)
+        {
+            @Html.DisplayFor(m => m.ResourceProperties, "Parameters")
+        }
+    }
+    else
+    {
+        <p>Vazio.</p>
+    }
+
+    @if (Model.SampleResponses.Count > 0)
+    {
+        <h3>Formato do retorno (Json)</h3>
+        @Html.DisplayFor(m => m.SampleResponses, "Samples")
+    }
+
+</div>
