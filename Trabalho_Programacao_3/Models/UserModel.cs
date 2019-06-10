@@ -15,10 +15,13 @@ namespace Trabalho_Programacao_3.Models
         public long ID { get; set; }
 
         [Column("nm_email")]
+        [Required(ErrorMessage = "Informe o seu e-mail")]
+        [RegularExpression(@".+\@.+\..+", ErrorMessage = "Informe um e-mail válido...")]
         [StringLength(100)]
         public string Email { get; set; }
 
         [Column("nm_password")]
+        [Required(ErrorMessage = "A senha é obrigatória.")]
         [StringLength(100)]
         public string Password { get; set; }
 

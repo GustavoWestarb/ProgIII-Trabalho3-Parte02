@@ -22,6 +22,7 @@ namespace Trabalho_Programacao_3.Models
 
         [ForeignKey("UserModel")]
         [Column("cd_user")]
+        [Required(ErrorMessage = "É preciso vincular um usuário com esta comanda")]
         public long UserModelRefId { get; set; }
 
         [JsonIgnore]
